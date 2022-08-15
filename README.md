@@ -72,4 +72,4 @@ class SampleFragment : BindingFragment<FragmentSampleBinding>() {
 }
 ```
 
-That's it enjoy the library 🥳, give me start if you like this library, ciaaoo 😎✨
+That's it enjoy the library 🥳, give me star if you like this library, ciaaoo 😎✨
